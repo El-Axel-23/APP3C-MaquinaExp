@@ -1,0 +1,14 @@
+C:\Users\Axel\Desktop\APP3C-master\bin\Debug\APP3C.exe.config
+C:\Users\Axel\Desktop\APP3C-master\bin\Debug\APP3C.exe
+C:\Users\Axel\Desktop\APP3C-master\bin\Debug\APP3C.pdb
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.Cafeteria.frmCafeteria.resources
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.HolaMundo.frmCalculadora.resources
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.Properties.Resources.resources
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.exe
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.pdb
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.login.FrmLogin.resources
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.Principal.resources
+C:\Users\Axel\Desktop\APP3C-master\obj\Debug\APP3C.MaquinaExp.frmMaquina.resources
